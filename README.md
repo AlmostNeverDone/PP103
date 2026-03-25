@@ -22,6 +22,8 @@
 <br/>
 
 [Penetration Testing (滲透測試)]
+- <b>[Create a Simple Trojan with eLiTeWrap](https://github.com/AlmostNeverDone/PT103) <br/>
+  (使用 eLiTeWrap 建立簡易木馬)</b>
 - <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) <br/>
   (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
 - <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
