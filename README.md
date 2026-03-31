@@ -20,7 +20,7 @@
 <br/>
 
 
-[Securing Networks(保護網路安全)]
+[Securing Networks (保護網路安全)]
 - <b>[Snort 3 Intrusion Detection Practice](https://github.com/AlmostNeverDone/SN110) <br/>
   (Snort 3 入侵偵測實作)</b>
 - <b>[Implementing Extended IPv4 ACLs for Service-Based Traffic Control](https://github.com/AlmostNeverDone/SN109) <br/>
@@ -42,7 +42,7 @@
 <br/>
 
 
-[IS/ICT Project Management(IS/ICT專案管理)]
+[IS/ICT Project Management (IS/ICT專案管理)]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) <br/>
   (專案管理：建立 WBS)</b>
 <br/>
