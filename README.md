@@ -9,6 +9,8 @@
 <br/>
 
 [Penetration Testing (滲透測試)]
+- <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC101) <br/>
+  (使用 John the Ripper 進行密碼破解)</b>
 - <b>[Uncovering SQL Injection Vulnerabilities](https://github.com/AlmostNeverDone/PT106) <br/>
   (SQL Injection 漏洞挖掘與利用)</b>
 - <b>[Hack Windows Password using Mimikatz](https://github.com/AlmostNeverDone/PT105) <br/>
