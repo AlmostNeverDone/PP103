@@ -60,3 +60,13 @@
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) <br/>
   (專案管理：建立 WBS)</b>
 <br/>
+
+
+<h2>Reference 參考</h2>
+
+* [UniSQ] [CIS6708 - Digital Forensics](https://handbook-guide.unisq.edu.au/course/2026/CIS6708)<br/>
+* [UniSQ] [CSC6101 - Penetration Testing](https://handbook-guide.unisq.edu.au/course/2026/CSC6101)<br/>
+* [UniSQ] [CSC8520 - Securing Networks](https://handbook-guide.unisq.edu.au/course/2025/CSC8520)
+* [UniSQ] [CIS5310 - IS/ICT Project Management](https://handbook-guide.unisq.edu.au/course/2025/CIS5310)
+
+<br/>
